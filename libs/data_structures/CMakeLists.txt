@@ -1,0 +1,10 @@
+add_library(data_structures
+        vector/vector.h
+        vector/vector.c
+        matrix/matrix.c
+        matrix/matrix.h
+        matrix/test.matrix.c
+        utili/utili.c
+        utili/utili.h
+        utili/resheniya.cpp
+)
